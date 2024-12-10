@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:pesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|d:\\kuliah\\semester 5\\tugas net\\praktikum net\\uts net\\uts net\\penumpang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:penumpang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Jadwal Bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:Jadwal Bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\jadwal bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:jadwal bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\penumpang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:penumpang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\dasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:dasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|d:\\kuliah\\semester 5\\tugas net\\praktikum net\\uts net\\uts net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|d:\\kuliah\\semester 5\\tugas net\\praktikum net\\uts net\\uts net\\codebus_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7EFB8581-E23A-4315-9B47-74816C2B8A74}|UTS NET.csproj|solutionrelative:codebus_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__KULIAH_SEMESTER_5_TUGAS_NET_PRAKTIKUM_NET_UTS_NET_UTS_NET_CODEBUS.MDF/True/SqlTable/dbo.tbl_pemesanan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__KULIAH_SEMESTER_5_TUGAS_NET_PRAKTIKUM_NET_UTS_NET_UTS_NET_CODEBUS.MDF/True/SqlTable/dbo.Cd_Bus_tbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pesanan.cs",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Pesanan.cs",
+              "RelativeDocumentMoniker": "Pesanan.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Pesanan.cs",
+              "RelativeToolTip": "Pesanan.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:19:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pesanan.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Pesanan.cs",
+              "RelativeDocumentMoniker": "Pesanan.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Pesanan.cs [Design]",
+              "RelativeToolTip": "Pesanan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:11:37.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jadwal Bus.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Jadwal Bus.cs",
+              "RelativeDocumentMoniker": "Jadwal Bus.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Jadwal Bus.cs [Design]",
+              "RelativeToolTip": "Jadwal Bus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:05:04.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jadwal Bus.cs",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Jadwal Bus.cs",
+              "RelativeDocumentMoniker": "Jadwal Bus.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Jadwal Bus.cs",
+              "RelativeToolTip": "Jadwal Bus.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAASwEEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:19:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:20:26.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Penumpang.cs",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Penumpang.cs",
+              "RelativeDocumentMoniker": "Penumpang.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Penumpang.cs",
+              "RelativeToolTip": "Penumpang.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAYwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:02:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Penumpang.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Penumpang.cs",
+              "RelativeDocumentMoniker": "Penumpang.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Penumpang.cs [Design]",
+              "RelativeToolTip": "Penumpang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:22:27.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.tbl_pemesanan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__KULIAH_SEMESTER_5_TUGAS_NET_PRAKTIKUM_NET_UTS_NET_UTS_NET_CODEBUS.MDF/True/SqlTable/dbo.tbl_pemesanan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__KULIAH_SEMESTER_5_TUGAS_NET_PRAKTIKUM_NET_UTS_NET_UTS_NET_CODEBUS.MDF/True/SqlTable/dbo.tbl_pemesanan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T10:54:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dasboard.cs [Design]",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Dasboard.cs",
+              "RelativeDocumentMoniker": "Dasboard.cs",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\Dasboard.cs [Design]",
+              "RelativeToolTip": "Dasboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:35:55.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-10T11:57:44.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodeBus_log.ldf",
+              "DocumentMoniker": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\CodeBus_log.ldf",
+              "RelativeDocumentMoniker": "CodeBus_log.ldf",
+              "ToolTip": "D:\\KULIAH\\SEMESTER 5\\TUGAS NET\\PRAKTIKUM NET\\UTS NET\\UTS NET\\CodeBus_log.ldf",
+              "RelativeToolTip": "CodeBus_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIkSURBVDhPpVJLaFNBFD3zEtEuQqpCWqu0iEhFEcQY3PjZuNONoFLBH6ibighBRYK7SooBi1a7UXRRhGJxLyqiUtRFMYKCIH6wVYiJaWt8SV7eb653Jk0xaXShB\u002BbDvXPPnHtm8F8gotndv0OoKf0oRSR9ZyqXDzIpxwjFjuM61wzhUAt2xFZW8y8f9ruvnl4hvzBKrjVGvv2M6GucciOgvsER5qtCSiLPk2TZPkV3npiTbnz5NBHYEF0OsSiCQDDIIQFqP4Cxtrc4f7JHH7pwYxznBp8jce0FPL\u002Bh7eHUQd9M76HiZIoqM3epkr89TwEXke34VCz7NGN6dQqCxP2Sa4KsKciFSyAr07Ay77SCxL418CXQf3McZtnVBWcOx/Rag8H1jAW8Y/kiAMFr64pubM2uRXLoDhNIxA9tROLYZpw\u002BEoPj1begXK8\u002BxW8ofJvUCuK7u7lnYGA4Paegtyeq1xoMzVfHQAi3d2oFA9dHtWnbN3Vi17ZVejQq4BY4oAlqCcEKJrSCU0f3wuWC1V2L0dXRimWRcJMWeOJXVrMOKFPBf\u002BnegydIXhrSsb8hyNVCOan\u002Bn4LQcggXt/TBWZ9B2TZw//U69F5\u002B02iVhuFLIdRTaTMFl/MxNQxBkMwqpYDpLZ09Ph9GgG38\u002BOE9slkLjlWA69golglmSSD3M4TsD0Xa9HINnbmV3E\u002Bl/OdMyQ1FVEy5oRItYvq7TaG2s1cf/4EB\u002BAWfvx/NZ0PsMgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-10T11:31:36.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Cd_Bus_tbl.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__KULIAH_SEMESTER_5_TUGAS_NET_PRAKTIKUM_NET_UTS_NET_UTS_NET_CODEBUS.MDF/True/SqlTable/dbo.Cd_Bus_tbl.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__KULIAH_SEMESTER_5_TUGAS_NET_PRAKTIKUM_NET_UTS_NET_UTS_NET_CODEBUS.MDF/True/SqlTable/dbo.Cd_Bus_tbl.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T09:47:11.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
